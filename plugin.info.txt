@@ -1,7 +1,7 @@
 base   navpath
 author Olaf Steinicke
 email  olaf.steinicke@ascilium.com
-date   2021-03-24
-name   Nav Path plugin
+date   2021-03-26
+name   Navpath plugin
 desc   Create a navigation path in DokuWiki like "First > Second > Third". 
 url    https://www.dokuwiki.org/plugin:navpath
